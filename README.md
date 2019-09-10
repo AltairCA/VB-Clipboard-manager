@@ -2,7 +2,7 @@
 A Clipboard Manager
 
 
-Compile it using visual stuido 2010 or higher verion
+Compile it using visual stuido 2010 or higher version
 
 Usage
 shortcuts
